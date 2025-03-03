@@ -30,7 +30,7 @@ const TodoForm: React.FC<TodoFormProps> = ({ onAdd }) => {
       className="bg-amber-500 hover:bg-amber-600 text-white p-3 rounded-r-lg transition-colors flex items-center h-12"
     >
       <PlusCircle size={20} className="mr-1" />
-      Add Task
+      Add
     </button>
   </form>
   );
